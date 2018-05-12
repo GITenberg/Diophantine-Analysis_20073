@@ -1,0 +1,29 @@
+_repo: Diophantine-Analysis_20073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carmichael, R. D. (Robert Daniel)
+    alias: Carmichael, Robert Daniel
+    birthdate: 1879
+    deathdate: 1967
+    gutenberg_agent_id: '5198'
+    url: http://www.gutenberg.org/2009/agents/5198
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Daniel_Carmichael
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diophantine analysis'
+- !lcc 'QA'
+title: Diophantine Analysis
+url: http://www.gutenberg.org/ebooks/20073
